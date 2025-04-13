@@ -25,10 +25,10 @@ This is a simple implementation of the game Othello (also known as Reversi) in P
 
 2.  **Run the Game:**
 
-    Save the code as a `.py` file (e.g., `othello.py`) and run it from your terminal:
+    Save the code as `MinMax.py` and run it from your terminal:
 
     ```
-    python othello.py
+    python MinMax.py
     ```
 
 ## Controls
